@@ -1,3 +1,3 @@
 install.packages("tidyverse")
-install.packages("parallel")
-install.packages("foreach")
+#install.packages("parallel")
+#install.packages("foreach")
